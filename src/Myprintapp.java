@@ -8,7 +8,7 @@ public class Myprintapp {
 	 
 		        System.out.print("This app is made by: ");
 
-		       
+		       // declare my name as a creator.
 		        String creator = "keya";
 
 		        // Print creator name.
@@ -17,8 +17,8 @@ public class Myprintapp {
 		        // Declare two variable.
 		        int number1 = 5;
 		        int number2 = 2;
-		        
-		       // System.out.println(number1);
+		        //print integer type varibale.
+		        System.out.println(number1);
                   
 		        
 		        System.out.println("The value of number1 is " + number1);
@@ -26,7 +26,7 @@ public class Myprintapp {
 		        // 
 		        System.out.println("The value of number2 is " + number2);
 
-		        //  Declare an integer typed variable.
+		        // Declare an integer typed variable.
 		        int multiplication;
 
 		        // 
@@ -39,7 +39,7 @@ public class Myprintapp {
 		        int addition = number1 + number2;
 		        double division = (double) number1 / number2;
 		        int subtraction = number1 - number2;
-
+                // print all the add/sub/division.
 		        System.out.println(number1 + " + " + number2 + " = " + addition);
 		        System.out.println(number1 + " / " + number2 + " = " + division);
 		        System.out.println(number1 + " - " + number2 + " = " + subtraction);
