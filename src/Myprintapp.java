@@ -32,7 +32,7 @@ public class Myprintapp {
 		        // 
 		        multiplication = number1 * number2;
 
-		        //  
+		        // print multiplication value
 		        System.out.println(number1 + " * " + number2 + " = " + multiplication);
 
 		        //  Doing addition, division, and subtraction(change integer to double for division).
