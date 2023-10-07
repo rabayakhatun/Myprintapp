@@ -20,13 +20,13 @@ public class Myprintapp {
 		        //print integer type varibale.
 		        System.out.println(number1);
                   
-		        
+		        //
 		        System.out.println("The value of number1 is " + number1);
 
 		        // 
 		        System.out.println("The value of number2 is " + number2);
 
-		        // Declare an integer typed variable.
+		        // Declare an integer typed variable is multiplication.
 		        int multiplication;
 
 		        // 
